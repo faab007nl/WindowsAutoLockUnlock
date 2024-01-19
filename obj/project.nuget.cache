@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFPL1e63XTU6tHM62U/L7uBE7fqLB+jhDA7ES2h8DMuPh3gntgbOW87Mad6YEFg2XupY08bJg8vJ5w1S6KSBqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mail\\source\\repos\\WindowsAutoLockUnlock\\WindowsAutoLockUnlock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mail\\.nuget\\packages\\desktop.robot\\1.5.0\\desktop.robot.1.5.0.nupkg.sha512",
+    "C:\\Users\\mail\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mail\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\mail\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mail\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\mail\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
